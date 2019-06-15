@@ -18,6 +18,7 @@ class ReceberTemperaturaPredict
             Temperatura_Minima: hora["main"]["temp_min"], 
             Velocidade_Vento: hora["wind"]["speed"]}} 
 
+            
         end
         dados
     
